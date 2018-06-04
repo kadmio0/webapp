@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Jun 04 03:25:47 BOT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0163-c9b0-0ae9-0000032bd6a0 
+on database directory C:\Users\KEVIN\Desktop\VoiceMail\VoiceMailDB  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/KEVIN/Desktop/VoiceMail/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\KEVIN\Desktop\VoiceMail
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
